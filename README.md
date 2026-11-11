@@ -38,5 +38,6 @@ The app is a static site. In the repository settings, enable GitHub Pages from
 the default branch and select the repository root as the source. The root
 [`index.html`](./index.html) is the app entry point.
 
-The cell changer was extracted from
-[`simonjudge/gridset-style-changer`](https://github.com/simonjudge/gridset-style-changer).
+Originally developed in [`willwade/gridset-style-changer`](https://github.com/willwade/gridset-style-changer)
+as part of the [AACTools](https://github.com/AACTools) project, this tool has
+since been extracted into its own repository.
